@@ -1,0 +1,15 @@
+current directory: /Users/javiercarrera/Documents/Development/Ruby_on_Rails/auctions/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.13.0/ext/bootsnap
+/Users/javiercarrera/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/javiercarrera/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20220914-4921-170pe19.rb extconf.rb
+creating Makefile
+
+current directory: /Users/javiercarrera/Documents/Development/Ruby_on_Rails/auctions/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.13.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/javiercarrera/Documents/Development/Ruby_on_Rails/auctions/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.13.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/javiercarrera/Documents/Development/Ruby_on_Rails/auctions/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.13.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20220914-4921-14wxs5s/bootsnap

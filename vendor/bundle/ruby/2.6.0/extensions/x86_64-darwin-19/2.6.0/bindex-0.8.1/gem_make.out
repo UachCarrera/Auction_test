@@ -1,0 +1,15 @@
+current directory: /Users/javiercarrera/Documents/Development/Ruby_on_Rails/auctions/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/javiercarrera/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/javiercarrera/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20220914-4921-lqk6no.rb extconf.rb
+creating Makefile
+
+current directory: /Users/javiercarrera/Documents/Development/Ruby_on_Rails/auctions/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/javiercarrera/Documents/Development/Ruby_on_Rails/auctions/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/javiercarrera/Documents/Development/Ruby_on_Rails/auctions/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20220914-4921-19b8ws9/skiptrace/internal
